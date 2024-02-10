@@ -1,4 +1,4 @@
-"""RETO 4 DE DIA JUEVES de Alfredo Ruiz"""
+"""RETO 5 DE DIA VIERNES de Alfredo Ruiz"""
 
 import sys
 
